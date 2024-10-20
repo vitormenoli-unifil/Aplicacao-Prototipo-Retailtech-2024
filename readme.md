@@ -1,0 +1,3 @@
+O Busimatch é um aplicativo que impulsiona o networking entre empresas e investidores. As empresas criam perfis destacando o que oferecem e o que precisam, facilitando conexões com outras que complementam seus negócios.
+
+O foco principal é promover parcerias estratégicas, enquanto investidores podem encontrar facilmente oportunidades de investimento em empresas que indicam suas necessidades. Com o Busimatch, transformamos o networking empresarial em uma experiência eficiente, gerando conexões valiosas que impulsionam o crescimento de todos os envolvidos.

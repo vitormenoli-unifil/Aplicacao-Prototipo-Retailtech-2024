@@ -1,0 +1,81 @@
+#perfilA img {
+    clip-path: circle();
+}
+
+#perfilA {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#perfilA a {
+    text-decoration: none;
+}
+
+.empresaDesc {
+    width: 65vh;
+}
+
+.empresaNome {
+    padding: .5rem;
+}
+
+.empresaEstrela {
+    padding: .5rem;
+}
+
+.empresa {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    justify-content: space-between;
+
+    padding: .5rem 1rem;
+    text-decoration: none;
+    color: #fff;
+    background-color: #202c41;
+    border-radius: 10px;
+    margin: .5rem;
+    text-align: center;
+}
+
+#premium {
+    background-color: #ffff3e;
+    color: #000;
+}
+
+.bgWhite {
+    background-color: #fff;
+    color: #000;
+}
+
+#tags {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+.empresaopt {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    justify-content: space-between;
+
+    padding: .5rem 1rem;
+    text-decoration: none;
+    color: #fff;
+    background-color: #202c41;
+    border-radius: 10px;
+    margin: .5rem;
+
+    width: 65vh;
+}
+
+.empresaoptTitle {
+    padding: .5rem;
+}
+
+.tg {
+    padding: .5rem 1rem;
+}

@@ -1,0 +1,55 @@
+#empresas {
+    margin: 2rem;
+}
+
+.filtro, .empresa {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    justify-content: space-between;
+
+    padding: .5rem 1rem;
+    text-decoration: none;
+    color: #fff;
+    background-color: #202c41;
+    border-radius: 10px;
+    margin: .5rem;
+}
+
+.empresa {
+    justify-content: space-between;
+}
+
+.empresaNome {
+    padding: .5rem 1rem;
+}
+
+.filtroTitle, .empresaEstrela {
+    padding: .5rem;
+}
+
+.resposta {
+    padding: .5rem;
+    background-color: #fff;
+    color: #000;
+}
+
+#palavrasChaveRespostas {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+#resultado {
+    margin: 2rem;
+    margin-top: 3rem;
+}
+
+#premium {
+    background-color: #ffff3e;
+    color: #000;
+}
+
+a {
+    text-decoration: none;
+}

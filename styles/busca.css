@@ -1,0 +1,48 @@
+#busca {
+    margin: 2rem;
+}
+
+.filtro {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    justify-content: space-between;
+
+    padding: .5rem 1rem;
+    text-decoration: none;
+    color: #fff;
+    background-color: #202c41;
+    border-radius: 10px;
+    margin: .5rem;
+}
+
+#buscaPalavra {
+    display: flex;
+    flex-direction: column;
+    margin: .5rem;
+}
+
+#buscaPalavra input {
+    background-color: #202c41;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 2px;
+}
+
+a {
+    padding: .5rem 1rem;
+    text-decoration: none;
+    color: #fff;
+    background-color: #202c41;
+    border-radius: 10px;
+    margin: 1rem;
+}
+
+#aBuscar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

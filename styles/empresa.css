@@ -1,0 +1,23 @@
+#empresa div {
+    display: flex;
+    flex-direction: column;
+}
+
+#empresa div input {
+    background-color: #202c41;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 2px;
+}
+
+#seguinte a {
+    padding: .5rem 1rem;
+    text-decoration: none;
+    color: #fff;
+    background-color: #202c41;
+    border-radius: 10px;
+    margin: 2rem;
+    text-align: center;
+}
