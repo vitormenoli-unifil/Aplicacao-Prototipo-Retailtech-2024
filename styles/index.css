@@ -37,7 +37,7 @@ h2 {
     text-align: center;
 }
 
-#index a {
+#index a, .nav a, .maisInfos a {
     padding: .5rem 1rem;
     text-decoration: none;
     color: #fff;
