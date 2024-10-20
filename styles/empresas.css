@@ -38,6 +38,7 @@
     display: flex;
     flex-direction: row;
     gap: 1rem;
+    flex-wrap: wrap;
 }
 
 #resultado {
@@ -52,4 +53,14 @@
 
 a {
     text-decoration: none;
+}
+
+@media (max-width: 500px) {
+    #empresas {
+        width: 40vh;
+    }
+
+    p, li {
+        font-size: 12px !important;
+    }
 }

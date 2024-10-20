@@ -54,6 +54,7 @@
     display: flex;
     flex-direction: row;
     gap: 1rem;
+    flex-wrap: wrap;
 }
 
 .empresaopt {
@@ -78,4 +79,22 @@
 
 .tg {
     padding: .5rem 1rem;
+}
+
+@media (max-width: 500px) {
+    #perfilA {
+        width: 40vh !important;
+    }
+
+    p {
+        font-size: 12px !important;
+    }
+
+    .empresaDesc {
+        width: 40vh;
+    }
+
+    .empresaopt {
+        width: 40vh;
+    }
 }
